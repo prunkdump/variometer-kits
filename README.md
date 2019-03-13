@@ -1,16 +1,9 @@
 # variometer-kits
-Hardware kits to build the arduino variometer
 
-Demo :
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!! This page have moved !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-https://www.youtube.com/watch?v=60fqfbTenkc
+See :
 
-Tutorial :
-
-http://glpano.free.fr/vario/
-
-Calibration :
-
-https://www.youtube.com/watch?v=fc0vIsZJvsw
-
-
+https://prunkdump.github.io/GNUVario
